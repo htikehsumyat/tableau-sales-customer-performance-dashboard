@@ -12,20 +12,18 @@ The project consists of **two interactive dashboards**:
 Together, they provide insights into sales performance, profitability, customer behavior, and business trends through interactive visual analytics.
 
 ## Sales Performance Dashboard
-**Purpose**
-
+## Purpose
 Analyze year-over-year sales performance through interactive KPI tracking and trend analysis.
-**Highlights**
+## Highlights
 - Year-over-year comparison of Sales, Profit, and Quantity
 - Monthly sales trends with highest and lowest performance identified
 - Product subcategory analysis with Sales vs. Profit comparison
 - Weekly Sales and Profit performance with average reference lines
 
 ## Customer Performance Dashboard
-**Purpose**
-
+## Purpose
 Analyze customer behavior, purchasing patterns, and profitability through interactive visualizations.
-**Highlights**
+## Highlights
 - Year-over-year comparison of Customers, Sales per Customer, and Orders
 - Monthly customer trends
 - Customer distribution by number of orders
