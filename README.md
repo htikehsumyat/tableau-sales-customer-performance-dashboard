@@ -13,6 +13,7 @@ Together, they provide insights into sales performance, profitability, customer 
 
 ## Sales Performance Dashboard
 **Purpose**
+
 Analyze year-over-year sales performance through interactive KPI tracking and trend analysis.
 **Highlights**
 - Year-over-year comparison of Sales, Profit, and Quantity
@@ -22,6 +23,7 @@ Analyze year-over-year sales performance through interactive KPI tracking and tr
 
 ## Customer Performance Dashboard
 **Purpose**
+
 Analyze customer behavior, purchasing patterns, and profitability through interactive visualizations.
 **Highlights**
 - Year-over-year comparison of Customers, Sales per Customer, and Orders
