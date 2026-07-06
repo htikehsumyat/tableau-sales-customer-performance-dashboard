@@ -31,3 +31,6 @@ Analyze customer behavior, purchasing patterns, and profitability through intera
 
 ## Dataset
 Sales Dataset (provided as part of the learning project)
+
+## Tools
+Tableau
